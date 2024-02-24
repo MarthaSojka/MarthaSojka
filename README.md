@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MarthaSojka
 - 👀 I’m interested in new technologies and coding.
 - 🌱 I’m currently learning Web Development: CSS, SCSS, JavaScript, Python, Flask and Django.
-  
--💞️ I’m looking for interesting job in IT. I wish to develop my skills.
+- 💞️ I’m looking for interesting job in IT. I wish to develop my skills.
 <!-- - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
